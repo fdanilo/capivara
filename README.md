@@ -70,15 +70,15 @@ Perfil de nutricionista para avaliar e aprovar informações enviadas por consum
 
 ## Pesquisas
 
-1- Código de barras são padrão em todos os países
-2- Comprovações téoricas do problema e da solução "Nutricional dos ingredientes contidos nos produtos industrializados"
-3- O que os nutricionistas dizem sobre produtos indústrializados.
+1 - Código de barras são padrão em todos os países  
+2 - Comprovações téoricas do problema e da solução "Nutricional dos ingredientes contidos nos produtos industrializados"  
+3 - O que os nutricionistas dizem sobre produtos indústrializados.  
 
-Livro - INFORMAÇÕES NUTRICIONAIS DE PRODUTOS INDUSTRIALIZADOS
+Livro - INFORMAÇÕES NUTRICIONAIS DE PRODUTOS INDUSTRIALIZADOS  
 
-http://www.editorametha.com.br/livros-de-nutricao/tabela-de-composicao-de-alimentos/informacoes-nutricionais-de-produtos-industrializados.html
+http://www.editorametha.com.br/livros-de-nutricao/tabela-de-composicao-de-alimentos/informacoes-nutricionais-de-produtos-industrializados.html  
 
-http://poenorotulo.com.br/CartilhaAlergiaAlimentar_29AGO.pdf
+http://poenorotulo.com.br/CartilhaAlergiaAlimentar_29AGO.pdf  
 
 
 ## Modelagem online
@@ -87,5 +87,5 @@ http://poenorotulo.com.br/CartilhaAlergiaAlimentar_29AGO.pdf
 
 ## Modelagem MongoDB
 
-http://pt.slideshare.net/avelinoo/modelando-aplicao-em-documento-mongodb
+http://pt.slideshare.net/avelinoo/modelando-aplicao-em-documento-mongodb  
 http://christiano.me/um-pouco-de-schema-design-mongodb/
