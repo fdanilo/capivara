@@ -1,0 +1,22 @@
+produtos :{
+    _id,
+    cod_barra,
+    nome,
+    descricao,
+    marca,
+    categoria,
+    subcategoria,
+    validade,
+    data_cadastro,
+
+    
+    ingredientes: [{
+        id_ingrediente
+    }],
+    colabs: [{
+        tipo_colab,
+        usr_id
+    }],
+    
+    id_super
+}
