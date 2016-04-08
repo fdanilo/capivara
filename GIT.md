@@ -30,6 +30,8 @@ git fetch upstream
 git merge upstream/master
 ```
 
+
+
 ## Após qualquer atualização
 
 ### 1. Adicionar arquivo para commit
@@ -42,9 +44,26 @@ git add seu_arquivo.md
 git commit -am "descricao do commit"
 ```
 
+### 3. Puxar atualizações do grupo rede local
+```
+git pull
+```
+
 ### 3. Subir atualização para repositório forkado
 ```
 git push origin master
 ```
 
+<<<<<<< HEAD
 TCC
+=======
+### 4. Dar Pull Request para repo original
+- Acessar endereço do repositório original
+- Clicar no botão: "Create pull Request"
+- Clicar no link "Compare accross forks"
+- No base fork deixar original e no "head fork" escolher seu usuário.
+
+## Comandos diversos
+
+- `git status`: Lista estado do repo local, arquivos alterados, adicionados para commit e etc.
+>>>>>>> upstream/master
