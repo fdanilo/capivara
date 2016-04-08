@@ -54,6 +54,9 @@ git pull
 git push origin master
 ```
 
+<<<<<<< HEAD
+TCC
+=======
 ### 4. Dar Pull Request para repo original
 - Acessar endereço do repositório original
 - Clicar no botão: "Create pull Request"
@@ -63,3 +66,4 @@ git push origin master
 ## Comandos diversos
 
 - `git status`: Lista estado do repo local, arquivos alterados, adicionados para commit e etc.
+>>>>>>> upstream/master
