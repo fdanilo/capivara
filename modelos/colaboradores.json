@@ -1,0 +1,8 @@
+colaboradores :{
+    _id,
+    nome,
+    tipo_colab,
+    data_nasc,
+    data_registro,
+    restricoes,
+}

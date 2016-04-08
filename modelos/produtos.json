@@ -4,12 +4,16 @@ produtos :{
     nome,
     descricao,
     marca,
-    categoria,
-    subcategoria,
+    categoria: [{
+      id_categoria
+    }],
+
+    subcategoria: [{
+        id_subcategoria
+    }],
     validade,
     data_cadastro,
 
-    
     ingredientes: [{
         id_ingrediente
     }],
@@ -17,6 +21,5 @@ produtos :{
         tipo_colab,
         usr_id
     }],
-    
-    id_super
+    id_marca,
 }
